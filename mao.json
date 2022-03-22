@@ -1,9 +1,11 @@
 {
 //"spider":"https://bitbucket.org/yangyi1975/mao/raw/df9d28158ba1bbe3b2804380bf295a704eeebab7/custom_spider5.jar",
 #"spider":"https://bitbucket.org/yangyi1975/mao/raw/594c0978f4bd4271e6ee8d415b65778946a70c63/custom_spider.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/custom1.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/custom.jar",
+"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
+//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/custom.jar",
 "sites": [    
+{"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "csp_Auete",
       "name": "Auete影视(SP)",
@@ -24,15 +26,6 @@
       "filterable": 0,
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/90ys.json"
     },
-        {
-      "key": "enlienli_spider",
-      "name": "嗯哩嗯哩(SP)",
-      "type": 3,
-      "api": "csp_Enlienli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
        {
       "key": "buka_spider",
       "name": "真不卡(SP)",
@@ -43,6 +36,9 @@
       "filterable": 1,
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
     },
+{"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"},
+{"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jpys.json"},
+{"key":"csp_xpath_dmntv","name":"弹幕影院(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"},
 {"key":"csp_xpath_猫群-----------贺岁6","name":"348电影xpath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cncncloud.com/api/v3/file/source/3064146/348lg.json?sign=x2kNos0rYSh68lfRPqjfbB0xKpsVeI0IfPdKn8zAs-4%3D%3A0"},
 {"key":"csp_xpath_猫群[撸天下]原创","name":"剧荒xpath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://uujs.ml/api/v3/file/source/7429/%E5%89%A7%E8%8D%92.json?sign=6oRK3n6V1c7N039BKV5w-TRyUWVCrgu0kGbpXzezggA%3D%3A0"},
 {"key":"csp_xpath_9EKK","name":"9E看看(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"},
@@ -119,16 +115,10 @@
     "filterable": 1,
     "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/94sm.json"
 },
-{
-     "key": "csp_xpath_gimytv",
-     "name": "剧迷影音(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/gimytv.json"
-},
+{"key":"Gimy","name":"Gimy(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Gimy.json"},
+{"key":"csp_appysv2_六把刀影院","name":"六把刀影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pro.6bd.net/mogai_api.php/v1.vod"},
+{"key":"csp_appysv2_看看影视","name":"看看影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
+{"key":"csp_appysv2_闲人视频","name":"闲人视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"},
 {"key":"csp_appys_追剧吧","name":"追剧吧(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"},
 {"key":"csp_appys_蓝光视频","name":"蓝光视频","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vip.91iqiyi.com/mogai_api.php/v1.vod"},
 {"key":"csp_appys_追剧王","name":"追剧王","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app1.udo.cc/api.php/app/"},
@@ -1402,6 +1392,7 @@
 "type":1,
 "url":"http://47.94.137.151:8089/?url="
 },
+{"name":"4K影院","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","mgtv","芒果"]}},
 {"name" : "淘影B","type":1,"url" : "http://jx.1080jx.top/jxvip/?url="},
 {
 "name":"专用1",
