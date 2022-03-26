@@ -36,6 +36,8 @@
       "filterable": 1,
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
     },
+{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dadagui.json"},
+{"key":"csp_renren520","name":"人人迷(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/pglblb/xp/raw/master/A12-%E4%BA%BA%E4%BA%BAHD.js"},
 {"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"},
 {"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jpys.json"},
 {"key":"csp_xpath_dmntv","name":"弹幕影院(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"},
@@ -70,7 +72,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/saohuo.json"
+     "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E9%AA%9A%E7%81%AB.json"
 },
 {
      "key": "csp_xpath_lezhutv",
@@ -80,19 +82,9 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/lezhutv.json"
+     "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E4%B9%90%E7%8C%AAtv.json"
 },
  {
-    "key": "csp_xpath_fantuan",
-    "name": "饭团影院(XPath)",
-    "type": 3,
-    "api": "csp_XPathFilter",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://gitee.com/CCSHCoder/APP/raw/master/XPath/fantuan.json"
-}, 
-{
      "key": "csp_xpath_dm84",
      "name": "动漫巴士(XPath)",
      "type": 3,
@@ -102,9 +94,9 @@
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
 },
-{"key" : "csp_xpath_newfii", "name" : "奈落(XPath)", "type" : 3, "api" : "csp_XPath", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/newfii.json"},
-{"key":"csp_xpath_meiju56","name":"美剧网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/CCSHCoder/APP/raw/master/XPath/meiju56.json" },
-{"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/CCSHCoder/APP/raw/master/XPath/aixixi.json"},
+{"key" : "csp_xpath_newfii", "name" : "奈落(XPath)", "type" : 3, "api" : "csp_XPath", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E5%A5%88%E8%90%BD.json"},
+{"key":"csp_xpath_meiju56","name":"美剧网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E7%BE%8E%E5%89%A7%E7%BD%91.json" },
+{"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E7%88%B1%E8%A5%BF%E8%A5%BF2.json"},
    {
     "key": "csp_xpath_94sm",
     "name": "九四神马(XPath)",
@@ -116,6 +108,8 @@
     "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/94sm.json"
 },
 {"key":"Gimy","name":"Gimy(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Gimy.json"},
+{"key":"六度","name":"六度(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/pglblb/js/raw/master/13-%E5%85%AD%E5%BA%A6tv.js"},
+{"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":0,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
 {"key":"csp_appysv2_六把刀影院","name":"六把刀影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pro.6bd.net/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_看看影视","name":"看看影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_闲人视频","name":"闲人视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingshi.xibiandexianren.cn/lvdou_api.php/v1.vod"},
