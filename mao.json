@@ -1,8 +1,8 @@
 {
-//"spider":"https://bitbucket.org/yangyi1975/mao/raw/df9d28158ba1bbe3b2804380bf295a704eeebab7/custom_spider5.jar",
-#"spider":"https://bitbucket.org/yangyi1975/mao/raw/594c0978f4bd4271e6ee8d415b65778946a70c63/custom_spider.jar",
+"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider3.jar",
+//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider4.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
+//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [    
 {"key":"csp_77","name":"77(爬虫)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kmys","name":"酷猫影视(爬虫)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
@@ -16,17 +16,7 @@
             "key": "epang_spider",
             "searchable": 1
         },
-        {
-            "ext": "",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "闪电(SP)",
-            "api": "csp_Sd",
-            "type": 3,
-            "key": "sd_spider",
-            "searchable": 1
-        },
-        {
+   {
             "ext": "",
             "filterable": 1,
             "quickSearch": 1,
@@ -100,9 +90,9 @@
 {"key":"csp_xpath_xty","name":"小太阳(优XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/yyotv.json?download=false"},
 {"key":"csp_xpath_chen","name":"尘落(优XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/chenluo.json?download=false"},
 {"key":"csp_xpath_xqm","name":"小强迷(优XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/xiaoqiang.json?download=false"},
+{"key":"csp_xpath_555","name":"555电影(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/o8tv.json?download=false"},
 {"key":"csp_xpath_sjy","name":"视觉影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/shijueyy.json?download=false"},
 {"key":"csp_xpath_tvby","name":"TVB云播(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/tvb.json?download=false"},
-{"key":"csp_xpath_viv","name":"vivod(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/vivod.json?download=false"},
 {"key":"csp_xpath_jubb","name":"剧白白(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/jubaibai.json?download=false"},
 {"key":"csp_xpath_cz","name":"船长(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E8%88%B9%E9%95%BF.json?download=false"},
 {"key":"csp_xpath_zx","name":"在线之家(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json?download=false"},
@@ -125,15 +115,11 @@
 {"key":"csp_xpath_libv","name":"libvio(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/libvio.json?download=false"},
 {"key":"csp_xpath_bk","name":"不开(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B8%8D%E5%BC%80vip.json?download=false"},
 {"key":"csp_xpath_31","name":"31看(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B8%89%E4%B8%80.json?download=false"},
-{"key":"csp_xpath_348","name":"348电影(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B8%89%E5%85%AB.json?download=false"},
+{"key":"csp_xpath_348","name":"348电影(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/348z.json?download=false"},
 {"key":"csp_xpath_zj","name":"追剧网(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E8%BF%BD%E5%89%A7%E7%BD%91.json?download=false"},
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/dadagui.json"},
-{"key":"csp_renren520","name":"人人迷(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/pglblb/xp/raw/master/A12-%E4%BA%BA%E4%BA%BAHD.js"},
-{"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/lranc.json"},
-{"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/jpys.json"},
-{"key":"csp_xpath_dmntv","name":"弹幕影院(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/dmntv.json"},
-{"key":"csp_xpath_猫群[撸天下]原创","name":"剧荒xpath","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://uujs.ml/api/v3/file/source/7429/%E5%89%A7%E8%8D%92.json?sign=6oRK3n6V1c7N039BKV5w-TRyUWVCrgu0kGbpXzezggA%3D%3A0"},
-{"key":"csp_xpath_9EKK","name":"9E看看(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/9EKK.json"},
+{"key":"csp_xpath_lranc","name":"天天影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/lranc.json?download=false"},
+{"key":"csp_xpath_jpys","name":"极品影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/jpys.json?download=false"},
 {
      "key": "csp_xpath_saohuo",
      "name": "骚火(XPath)",
@@ -166,23 +152,11 @@
 },
 {"key" : "csp_xpath_newfii", "name" : "奈落(XPath)", "type" : 3, "api" : "csp_XPath", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E5%A5%88%E8%90%BD.json"},
 {"key":"csp_xpath_meiju56","name":"美剧网(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E7%BE%8E%E5%89%A7%E7%BD%91.json" },
-{"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E7%88%B1%E8%A5%BF%E8%A5%BF2.json"},
-   {
-    "key": "csp_xpath_94sm",
-    "name": "九四神马(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/94sm.json"
-},
-{"key":"Gimy","name":"Gimy(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mo-xiao.coding.net/p/c/d/c/git/raw/master/sub/xpath/Gimy.json"},
-{"key":"六度","name":"六度(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/pglblb/js/raw/master/13-%E5%85%AD%E5%BA%A6tv.js"},
+{"key":"csp_xpath_axx","name":"爱西西(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/%E7%88%B1%E8%A5%BF%E8%A5%BF2.json"},  
+{"key":"六度","name":"六度(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/6dtv.json"},
 {"key":"csp_xpath_pianba","name":"片吧(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E7%89%87%E5%90%A7.json?download=false"},
 {"key":"csp_xpath_pianku","name":"片库(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E7%89%87%E5%BA%93.json?download=false"},
 {"key":"csp_appys_追剧吧","name":"追剧吧(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"},
-{"key":"csp_appys_xiaogui_快影音","name":"快云影音","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuaiyunyy.com/api.php/app/"},
 {"key":"csp_appysv2_雪梨","name":"雪梨(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://zsb2233.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_杨桃","name":"杨桃(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_影视达人","name":"影视达人(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.ysdr.vip/api.php/v1.vod"},
@@ -205,6 +179,48 @@
 {"key":"csp_appysv2_DC影视","name":"DC影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://chaorenbb.com/api.php/v1.vod"},
 {"key":"csp_appysv2_段友影视","name":"段友影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
+{
+            "key": "csp_appysv2_金叶影院",
+            "name": "金叶影院(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
+        },
+{
+            "key": "csp_appysv2_藤蔓影院",
+            "name": "藤蔓影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tengwan.yinliub.cn/lvdou_api.php/v1.vod"
+        },
+{
+            "key": "csp_appysv2_5秒看电影",
+            "name": "5秒看电影(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.5skan.com/mogai_api.php/v1.vod"
+        },
+{
+            "key": "百度资源",
+            "name": "百度资源",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
 {"key":"U酷","name":"U酷","type":1,"searchable":1,"quickSearch":0,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":""},
 {"key":"csp_appysv2_看看影视","name":"看看影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kk.ccboke.top/ruifenglb_api.php/v1.vod"},
 {"key":"csp_appys_蓝光视频","name":"蓝光视频","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://vip.91iqiyi.com/mogai_api.php/v1.vod"},
@@ -383,6 +399,9 @@
 {"key": "快看客栈", "name": "快看客栈", "type": 1,"api": "https://www.vp1127.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "哇可可影视", "name": "哇可可影视", "type": 1,"api": "https://www.zwcoco.com/api.php/provide/vod/","playUrl": "", "categories": []},
 {"key": "酷猫影视", "name": "酷猫影视", "type": 1,"api": "https://www.pgcms10.com/api.php/provide/vod/","playUrl": "", "categories": []},
+{"key":"U酷采集","name":"U酷","type":1,"searchable":1,"quickSearch":1,"api":"https://api.ukuapi.com/api.php/provide/vod/?ac=list","playUrl":"https://api.ukubf.com/m3u8/?url="},
+{"key":"红牛采集","name":"红牛","type":1,"searchable":1,"quickSearch":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"https://www.tutukiki.com/m3u8/?url="},
+{"key":"神速采集","name":"神速","type":1,"searchable":1,"quickSearch":1,"api":"https://api.sszyapi.com/api.php/provide/vod/?ac=list","playUrl":"https://player.sszyplayer.com/dplayer/?url="},
 {
 		"key": "春天影视",
 		"name": "春天影视",
@@ -1045,9 +1064,17 @@
     "type": 2,
     "url": "Sequence"
   },
-{"name":"绿箭影视2","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+{
+            "name": "duoduo",
+            "type": 1,
+            "url": "https://api.jhdyw.vip/dd.php?url=",
+            "ext": {
+                "flag": [
+                    "duoduozy"
+                ]
+            }
+        },
 {"name":"久九影视","type":1,"url":"https://json.hfyrw.com/mao.go?url="},
-{"name":"蓝光视频","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {
 "name":"极速",
 "type":1,
@@ -1065,6 +1092,8 @@
       "type": 1,
       "url": "https://jx.xuanqi.pro/?url="
     },
+{"name":"绿箭影视2","type":1,"url":"https://json.pangujiexi.com:12345/json.php?url="},
+{"name":"蓝光视频","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {
       "name": "06",
       "type": 1,
