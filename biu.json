@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name":"每天看看","url":"http://47.113.126.237:1234/api.php"},
+{"name":"每天看看","url":"http://47.113.126.237:1234/api.php/v1.vod"},
 {"name":"酷秒视界","url":"http://cms.kumiaotv.cn/api.php/v1.vod"},
 {"name":"杨桃","url":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"name":"麻瓜","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
