@@ -41,7 +41,7 @@
     "dtUrlId": "/@href",
     "dtUrlIdR": "/index.php/vod/play/id/40592/sid/1/nid/(\\d+).html",
     "dtUrlName": "/text()",
-    "playUrl": "https://www.dy888.tv/index.php/vod/play/{playUrl}.html",
+    "playUrl": "https://www.dy888.tv/index.php/vod/play/id/{playUrl}.html",
     "searchUrl": "https://www.dy888.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
