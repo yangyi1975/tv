@@ -17,7 +17,6 @@
 {"name":"北川","url":"https://www.bcwzg.com/api.php/app/"},
 {"name":"1080KK","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"name":"158影院","url":"http://150.158.133.36:9904/qingdoujiekou.php/v1.vod"},
-{"name":"月儿dou","url":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"name":"酷秒视界","url":"http://cms.kumiaotv.cn/api.php/v1.vod"},
 {"name":"麻瓜","url":"http://aliyun.k8aa.com/mogai_api.php/v1.vod"},
 {"name":"钟特影视","url":"https://app.zteys.com/api.php/v1.vod"},
@@ -65,7 +64,7 @@
 {"name":"追剧达人","url":"https://www.zhuijudaren.com/mogai_api.php/v1.vod"},
 {"name":"69院线","url":"http://app.269w.com/api.php/v1.vod"},
 {"name":"555电影","url":"https://555dy3.com/api.php/app/"},
-{"name":"测试2","url": "https://v.pipitu.top/xgapp.php/v2/"},
+{"name":"","url": "https://v.pipitu.top/xgapp.php/v2/"},
 {"name":"创艺","url":"http://www.30dian.cn/api.php/v1.vod"}],
 "caijizhan": [
 {"name":"酷云七七","url":"http://api.kunyu77.com/api.php"},
