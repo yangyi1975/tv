@@ -1,6 +1,6 @@
 {
 "spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider3.jar",
-//"spider":"img+https://github.com/YuanHsing/OneClickRun/raw/master/xpath/custom_spider_1651202998.bmp",
+//"spider":"https://notabug.org/yzzsjc/tvs/raw/master/Cat-jar/custom_spider56.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [    
@@ -13,16 +13,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   {
-      "key": "epang_spider",
-      "name": "阿房(SP)",
-      "type": 3,
-      "api": "csp_EPangApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
+  {
       "key": "ikan_spider",
       "name": "爱看(SP)",
       "type": 3,
@@ -41,24 +32,14 @@
       "filterable": 1
     },
     {
-      "key": "buka_spider",
-      "name": "真不卡(SP)",
+      "key": "csp_xpath_qiyou",
+      "name": "奇优电影(XP)",
       "type": 3,
-      "api": "csp_Buka",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/zhenbuka.json?download=false"
-    },
-    {
-      "key": "ftys_spider",
-      "name": "饭团(SP)",
-      "type": 3,
-      "api": "csp_Ftys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/fantuan.json?download=false"
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qiyou.json?download=false"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -91,14 +72,14 @@
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/6dtv.json"
     },
     {
-      "key": "csp_appysv2_杨桃",
-      "name": "杨桃(优)",
+      "key": "csp_xpath_unss",
+      "name": "九洲影视(XPMF)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ytys3456.com/mogai_api.php/v1.vod"
+      "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E4%B9%9D%E5%B7%9E.json?download=false"
     },
     {
       "key": "csp_appysv2_麻瓜视频",
@@ -321,6 +302,16 @@
       "ext": "http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"
     },
     {
+      "key": "csp_appysv2_1080kk",
+      "name": "1080kk(M2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://123.250idc.com/mogai_api.php/v1.vod"
+    },
+{
       "key": "csp_xpath_zmdy",
       "name": "周末电影(XP)",
       "type": 3,
@@ -361,6 +352,16 @@
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/1080.json?download=false"
     },
     {
+      "key": "csp_xpath_aute",
+      "name": "auete(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/YuanHsing/OneClickRun/master/xpath/dandan.json"
+    },
+{
       "key": "csp_xpath_1090y",
       "name": "1090影视(XP)",
       "type": 3,
@@ -581,6 +582,36 @@
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json?download=false"
     },
     {
+            "key": "csp_appysv2_ 沭阳影视",
+            "name": "沭阳影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://zjr.jurentiaodeng.com/api.php/v1.vod"
+        },
+     {
+            "key": "csp_appysv2_ 酷秒视界",
+            "name": "酷秒视界(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.kumiaotv.cn/api.php/v1.vod"
+        },
+      {
+            "key": "csp_appysv2_日诚影视",
+            "name": "日诚影视(M2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tv.rcz168.com/api.php/v1.vod"
+        },
+   {
       "key": "csp_xpath_rongx",
       "name": "融兴(XP)",
       "type": 3,
@@ -761,13 +792,13 @@
       "ext": "http://tengwan.yinliub.cn/lvdou_api.php/v1.vod"
     },
     {
-      "key": "百度资源",
-      "name": "百度资源",
+      "key": "百度云采集",
+      "name": "百度云",
       "type": 1,
-      "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.jxbdzyw.com/m3u8/?url="
     },
     {
       "key": "U酷",
@@ -1083,6 +1114,30 @@
       "filterable": 0
     },
     {
+            "key": "卧龙资源",
+            "name": "卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+{
+            "key": "奥特曼资源",
+            "name": "奥特曼资源",
+            "type": 1,
+            "api": "https://aotemanzy.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "filterable": 1,
+            "categories": [
+                
+            ]
+        },
+{
       "key": "快播资源",
       "name": "快播资源",
       "type": 1,
@@ -1336,7 +1391,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }  
+    }
   ],
   "lives": [ {
 		"group": "CCTV",
@@ -1785,16 +1840,6 @@
     "url": "Sequence"
   },
 {
-            "name": "duoduo",
-            "type": 1,
-            "url": "https://api.jhdyw.vip/dd.php?url=",
-            "ext": {
-                "flag": [
-                    "duoduozy"
-                ]
-            }
-        },
-{
             "name": "久久",
             "type": 1,
             "url": "https://json.hfyrw.com/mao.go?url=",
@@ -1843,6 +1888,88 @@
                     "xigua"
                 ]
             }
+        },
+{
+            "name": "duoduo",
+            "type": 1,
+            "url": "https://api.jhdyw.vip/dd.php?url=",
+            "ext": {
+                "flag": [
+                    "duoduozy"
+                ]
+            }
+        },
+{
+            "name": "4433解析",
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "ok解析",
+            "url": "https://okjx.cc/?url="
+        },
+       {
+            "name": "大鱼解析",
+            "url": "https://jx.yizz.top/?url="
+        },
+       {
+            "name": "百淘解析",
+            "url": "http://ys.58g8.com/1/?url="
+        },
+        {
+            "name": "8090",
+            "url": "http://ts.yjhan.com:8090/api/?type=app&key=43yVlZDaJg7dYH3DZi&url="
+        },
+        {
+            "name": "555解析",
+            "url": "https://jhpc.manduhu.com/player/?url="
+        },
+        {
+            "name": "蓝光解析",
+            "url": "https://www.daga.cc/vip1/?url="
+        },
+        {
+            "name": "人人迷解析",
+            "url": "https://jx.renrenmi.cc/?url="
+        },
+        {
+            "name": "2090解析",
+            "url": "https://m2090.com/?url="
+        },
+        {
+            "name": "优亿解析",
+            "url": "https://jx.youyitv.com/?url="
+        },
+        {
+            "name": "猪蹄解析1",
+            "url": "https://api.iztyy.com/jiexi/?url="
+        },
+        {
+            "name": "猪蹄解析2",
+            "url": "https://jx.iztyy.com/svip/?url="
+        },
+        {
+            "name": "猪蹄解析3",
+            "url": "https://jx.iztyy.com/Bei/?url="
+        },
+        {
+            "name": "parwix解析",
+            "url": "https://jx.parwix.com:4433/player/?url="
+        },
+        {
+            "name": "17k云",
+            "url": "http://17kyun.com/api.php?url="
+        },
+        {
+            "name": "全能VIP",
+            "url": "https://jx.cxk8.com?v="
+        },
+        {
+            "name": "WdsEcsxs",
+            "url": "https://wds.ecsxs.com/220311.html?url="
+        },
+        {
+            "name": "纯净解析",
+            "url": "https://z1.m1907.cn/?jx="
         },
         {
             "name": "老板解析",
@@ -2424,7 +2551,7 @@
       "url": "https://jx.yparse.com/index.php?url="
     }
      ],
-  "flags": [    "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","cctv","cntv","wasu","bilibili","xigua","1905","1920i","1920l","mim3u8","laodim3u8","leduo","CL4K","ltnb","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5"
+  "flags": [    "youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","cctv","cntv","wasu","bilibili","xigua","1905","1920i","1920l","mim3u8","laodim3u8","leduo","CL4K","ltnb","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5","wolong","atm"
   ],
   "ijk": [
     {
