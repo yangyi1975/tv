@@ -417,36 +417,6 @@
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/1080.json"
     },
 {"key":"csp_DY1990","name":"90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-   {
-      "key": "2345_spider",
-      "name": "2345影院(官源)",
-      "type": 3,
-      "api": "csp_YS2345",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078626/0"
-    },
-    {
-      "key": "sogou_spider",
-      "name": "搜狗影院(官源)",
-      "type": 3,
-      "api": "csp_YSSogou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078651/0"
-    },
-    {
-      "key": "360_spider",
-      "name": "360影院(官源)",
-      "type": 3,
-      "api": "csp_YS360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0"
-    },
     {
       "key": "csp_xpath_ikan",
       "name": "爱看(XP)",
