@@ -99,9 +99,7 @@
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/伊雪湾.json"},
 {"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/双十电影.json"},
 {"key":"csp_biubiu_139影视","name":"139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/139影视.json"},
-//{"key": "ikan_spider","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,   //"filterable": 1},
-//{"key": "mjxq_spider","name": "美剧星球(SP)","type": 3,"api": "csp_MjxqApp","searchable": 1,"quickSearch": //1,"filterable": 1},
-    {
+{
       "key": "csp_xpath_qiyou",
       "name": "奇优电影(XP)",
       "type": 3,
@@ -304,10 +302,7 @@
       "filterable": 1,
       "ext": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"
     },
-{"key":"csp_biubiu_看一看影视","name":"看一看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/看一看影视.json"},
-{"key":"csp_biubiu_31看影视","name":"31看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/31看影视.json"},
-{"key":"csp_biubiu_思古影视","name":"思古影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/思古影视.json"},
-    {
+ {
       "key": "csp_appysv2_天空影视V2",
       "name": "天空影视V2(M2)",
       "type": 3,
@@ -382,11 +377,7 @@
       "filterable": 1,
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
-{"key":"csp_biubiu_神马影院10","name":"神马影院10(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/神马影院10.json"},
-{"key":"csp_biubiu_23影院","name":"23影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/23影院.json"},
-{"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/VIP1280.json"},
-{"key":"csp_biubiu_city电影","name":"city电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/city电影.json"},
-    {
+ {
       "key": "csp_appysv2_段友影视",
       "name": "段友影视(优)",
       "type": 3,
@@ -458,10 +449,7 @@
       "ext": "https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/1080.json"
     },
 {"key":"csp_DY1990","name":"90(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":0},
-//{"key": "2345_spider","name": "2345影院(官源)","type": 3,"api": "csp_YS2345","searchable":1,"quickSearch": //1,"filterable": 1,"ext": "http://inews.gtimg.com/newsapp_ls/0/14743078626/0"},
-//{"key": "sogou_spider","name": "搜狗影院(官源)","type": 3,"api": "csp_YSSogou","searchable": //1,"quickSearch": 1,"filterable": 1,"ext": "http://inews.gtimg.com/newsapp_ls/0/14743078651/0"},
-//{"key": "360_spider","name": "360影院(官源)","type": 3,"api": "csp_YS360","searchable": 1,"quickSearch": //1,"filterable": 1,"ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0"},
-    {
+ {
       "key": "csp_xpath_ikan",
       "name": "爱看(XP)",
       "type": 3,
