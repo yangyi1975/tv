@@ -1034,15 +1034,6 @@
       "filterable": 0
     },
     {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "push_ali",
       "name": "推送1",
       "type": 3,
