@@ -1033,15 +1033,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Ali",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
     {
       "key": "push_agent",
       "name": "推送",
@@ -1050,8 +1041,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }   
-  ],
+    },
+{
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Ali",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+   ],
   "lives": [ {
 		"group": "CCTV",
 		"channels": [{
