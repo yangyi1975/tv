@@ -231,6 +231,16 @@
       "filterable": 1,
       "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
     },
+    {
+            "key": "csp_appysv2_特狗影视",
+            "name": "特狗影视APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tegouys.com/xgapp.php/v2/"
+        },
      {
       "key": "csp_xpath_netf",
       "name": "网飞(XP)",
