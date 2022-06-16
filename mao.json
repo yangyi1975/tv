@@ -197,8 +197,8 @@
       "ext": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"
     },
     {"key":"csp_appYsv2_美剧虫","name": "美剧虫（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"},
- {"key":"csp_appysv2_小南TV","name":"🐌小南TV（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
-{"key":"csp_appysv2_CV影视","name":"🐌CV影视（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
+ {"key":"csp_appysv2_小南TV","name":"小南TV（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_CV影视","name":"CV影视（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
  {
       "key": "csp_appysv2_天空影视V2",
       "name": "天空影视V2(M2)",
@@ -484,7 +484,7 @@
         "filterable": 1,
         "ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
      },
-     {"key":"csp_appysv2_2号币","name":"🐌2号币（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
+     {"key":"csp_appysv2_2号币","name":"2号币（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
    {"key":"csp_xpath_lmys","name":"来米影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qdytv.json"},
     {
       "key": "csp_xpath_1080p",
