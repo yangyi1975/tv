@@ -14,15 +14,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_7",
-      "name": "7(SP)",
-      "type": 3,
-      "api": "csp_xm0001",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
       "key": "LiteApple",
       "name": "小苹果",
       "type": 3,
