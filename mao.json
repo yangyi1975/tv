@@ -227,7 +227,6 @@
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/伊雪湾.json"},
 {"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/双十电影.json"},
 {"key":"csp_biubiu_奥特电影","name":"奥特电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/auete.json"},
-{"key":"csp_biubiu_AIDI电影","name":"奥特电影(XB)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/521999/x/raw/branch/main/519-aidi.json"},
 {
       "key": "csp_xpath_qiyou",
       "name": "奇优电影(XP)",
