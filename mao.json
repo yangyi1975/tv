@@ -157,16 +157,6 @@
     {"api":"csp_AppYsV2","ext":"http://jf.35ys.cc/lehailb_api.php/v1.vod","key":"csp_每天影视","filterable":1,"name":"每天影视","type":3},
     {"api":"csp_AppYsV2","ext":"https://ys.ling00.cn/api.php/v1.vod","key":"csp_领克影视","filterable":1,"name":"领克影视(优质)","type":3},
     {
-            "key": "csp_appysv2_特狗影视",
-            "name": "特狗影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://tv.tegouys.com/api.php/iptv/vod/"
-        },
-        {
       "key": "csp_appys_看365",
       "name": "看365",
       "type": 3,
