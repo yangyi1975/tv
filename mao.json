@@ -104,7 +104,6 @@
       "filterable": 1,
       "ext": "http://www.lltpys.com/api.php/app/"
     },
-    {"key":"美剧星球","name":"美剧星球","type":1,"api":"https://www.meijuxq.tv/inc/apijson_vod.php","searchable":0,"quickSearch":0},
     {
       "key": "csp_appysv2_钟特影视",
       "name": "钟特影视(v1)",
