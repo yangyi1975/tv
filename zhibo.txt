@@ -4090,7 +4090,7 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 dema,http://ye23.win/iptv/korea2021.php?id=dema
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_1
 阿里郎WORLD,http://ye23.win/iptv/korea2021.php?id=arirang_2
-彩虹电影_1008611,#genre#
+彩虹电影,#genre#
 松視1,mitv://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松視2,mitv://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
 松視3,mitv://fccs.word-tv.com:9906/6260dfda000d0d16172188c6d4d403c3
@@ -4123,8 +4123,7 @@ KMP 頻道 ,mitv://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
 櫻桃 ,mitv://fccs.word-tv.com:9906/626b7434000c38c40c6cef87e3079c78
 大學女援交妹 ,mitv://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
 做AI輸入 ,mitv://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e01100
-
- 彩虹电影2_1008611,#genre#
+ 彩虹电,#genre#
 彩虹e台,mitv://ns2.hellotvvod.com:9906/94c57d70e6a542e58226e0ab34f32082
 彩虹e台,mitv://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
