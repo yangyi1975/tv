@@ -1,20 +1,11 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/quan.jar;md5;6844666A12A05B6D1A9B416845B81E82",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/ddd.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B",
 "sites":[
 {
       "key": "csp_77",
       "name": "77(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-{
-      "key": "csp_LiteApple",
-      "name": "小苹果(SP)",
-      "type": 3,
-      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -72,6 +63,15 @@
 "filterable":1,"ext":"721eac98c4bd5a53a239c5caf53a574d8af617de"},
 {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,
 "quickSearch":1,"filterable":1},
+{"key": "Smdyy_spider",
+"name": "神马影视",
+"api": "csp_Smdyy",
+"type": 3,
+"filterable": 1,
+"quickSearch": 1,
+"searchable": 1,
+"ext": ""
+},
 {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,
 "quickSearch":1,"filterable":1},
 {
