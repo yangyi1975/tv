@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/ddd.jar;md5;2FA165C9AA72ADA6AB74A3DEDB58FF6B",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/eee.jar;md5;B63E45664754F6EF2536428B857901C6",
 "sites":[
 {
       "key": "csp_77",
@@ -19,7 +19,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+ {
       "key": "csp_CZSPP",
       "name": "厂长(SP)",
       "type": 3,
@@ -63,6 +63,11 @@
 "filterable":1,"ext":"721eac98c4bd5a53a239c5caf53a574d8af617de"},
 {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,
 "quickSearch":1,"filterable":1},
+{"key":"农民","name":"农民","type":3,"api":"csp_Nmys","searchable":1,
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/nmlg.jar;md5;F0DBC2CBD372AEF4C5AB5B199C2B6C8D","quickSearch":1,"filterable":1,"ext": "http://162.14.108.245:8088/nmys.json"},
+{"key":"蓝光","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/nmlg.jar;md5;F0DBC2CBD372AEF4C5AB5B199C2B6C8D","quickSearch":1,"filterable":1},
+{"key":"Libvio","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"剧荒TV","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/nmlg.jar;md5;F0DBC2CBD372AEF4C5AB5B199C2B6C8D","quickSearch":1,"filterable":1},
 {"key": "Smdyy_spider",
 "name": "神马影视",
 "api": "csp_Smdyy",
@@ -92,7 +97,7 @@
       "filterable": 1
     },
 {"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
-  {
+ {
       "key": "csp_SP360",
       "name": "360(SP)",
       "type": 3,
@@ -102,6 +107,12 @@
       "filterable": 1
     },
    {"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/subaibai.json"},
+{"key":"csp_biubiu_juzi","name":"橘子电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/juzi.json"},
+{"key":"csp_biubiu_69meiju","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/69meiju.json"},
+{"key":"csp_biubiu_zhongguo","name":"中国电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zhongguo.json"},
 {
             "key":"多多",
             "name": "多多资源",
@@ -731,10 +742,10 @@
                 ]
             }
         },
+{"name":"稀饭","type":1,"url":"http://162.14.108.245:8088/xifan.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","rx"]}},
 {"name":"全网视频解析","type":0,"url":"https://vip.laobandq.com/jiexi.php?url="},
 {"name":"CHok","type":0,"url":"https://www.gai4.com/?url="},
-{"name": "解析","type": 1,"url": "https://za.kuanjv.com/?url="},
-        {
+   {
             "name": "群鑫影视",
             "type": 1,
             "url": "http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=",
