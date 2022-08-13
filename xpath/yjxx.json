@@ -1,6 +1,34 @@
 {
   "classes": [
      {
+      "type_name": "TVBox",
+      "type_id": "TVBox"
+    },
+{
+      "type_name": "MT管理器",
+      "type_id": "MT管理器"
+    },
+{
+      "type_name": "NP管理器",
+      "type_id": "NP管理器"
+    },
+{
+      "type_name": "mixplorer",
+      "type_id": "mixplorer"
+    },
+{
+      "type_name": "脱壳",
+      "type_id": "脱壳"
+    },
+{
+      "type_name": "爬虫",
+      "type_id": "爬虫"
+    },
+{
+      "type_name": "json&jar",
+      "type_id": "json&jar"
+    },
+     {
       "type_name": "儿童早教",
       "type_id": "儿童早教"
     },
