@@ -49,15 +49,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-            "key":"csp_hbys",
-            "name":"简影(SP)",
-            "api":"csp_JianYing",
-            "type":3,
-            "filterable":1,
-            "quickSearch":1,
-            "searchable":1,
-            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 {"key":"csp_Wmkk","name":"完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,
 "searchable":1},
 {"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/box1.jar;md5;06ED1A662FC19E4EA22F60F02770F4B6","quickSearch":1,
@@ -107,11 +98,18 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{  "key":"csp_xpath_qiumi","name":"足球(Xb)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
+   "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zuqiu.json"
+},
+{"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
 {"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
 {"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
 {"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
-
-   {"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/subaibai.json"},
+{  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
+   "filterable": 0,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/diezhong.json"
+},
+{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/555%E7%94%B5%E5%BD%B1.json"},
+{"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/subaibai.json"},
 {"key":"csp_biubiu_juzi","name":"橘子电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/juzi.json"},
 {"key":"csp_biubiu_69meiju","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
