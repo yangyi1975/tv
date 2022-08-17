@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/eee.jar;md5;B63E45664754F6EF2536428B857901C6",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/ccc.jar;md5;BAC4507ABDE7C9D6886E14B5E00BC80D",
 "sites":[
 {
       "key": "csp_77",
@@ -38,9 +38,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"ekan","name":"易看","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ekan","name":"易看","type":3,"api":"csp_YydsAli2","searchable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jhal.jar;md5;95F1754708EEAF127D93FEA25DCD120A","quickSearch":1,"filterable":1},
 {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ksj","name":"看视界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_hbys","name": "简影","api": "csp_JianYing","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
   {  "key": "csp_Cokemv",
       "name": "焦炭(SP)",
       "type": 3,
