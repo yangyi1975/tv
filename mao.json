@@ -100,7 +100,7 @@
       "filterable": 1
     },
 {  "key":"csp_xpath_qiumi","name":"足球(Xb)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
-   "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/zuqiu.json"
+   "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zuqiu.json"
 },
 {"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
 {"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
@@ -108,13 +108,13 @@
 {"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
 {"key": "在线直播","name": "在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/xxtv.jar;md5;381A02B64A5BD9853369369C335B8018","filterable": 1},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
-   "filterable": 0,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/diezhong.json"
+   "filterable": 0,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/diezhong.json"
 },
-{"key":"csp_xbb_影视之光","name":"影视之光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/yszg.json"},
-{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/555%E7%94%B5%E5%BD%B1.json"},
-{"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/subaibai.json"},
+{"key":"csp_xbb_影视之光","name":"影视之光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/yszg.json"},
+{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/555%E7%94%B5%E5%BD%B1.json"},
+{"key":"csp_xpath_subb","name":"素白白TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/subaibai.json"},
 {"key":"csp_biubiu_69meiju","name":"69美剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/69meiju.json"},
+"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/69meiju.json"},
 {"key":"极速","name":"极速","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/",
 "playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
 "categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
@@ -189,11 +189,11 @@
       "filterable": 1,
       "ext": "http://mkk.gotka.top/api.php/v1.vod"
     },
-{"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/骚火电影.json"},
-{"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/口袋影院.json"},
-{"key":"csp_biubiu_小熊影视","name":"小熊影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/小熊影视.json"},
-{"key":"csp_biubiu_豆角网","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/豆角网.json"},
-{"key":"csp_biubiu_lgyy","name":"蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/蓝光影视.json"},
+{"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/骚火电影.json"},
+{"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/口袋影院.json"},
+{"key":"csp_biubiu_小熊影视","name":"小熊影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/小熊影视.json"},
+{"key":"csp_biubiu_豆角网","name":"豆角网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/豆角网.json"},
+{"key":"csp_biubiu_lgyy","name":"蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/蓝光影视.json"},
 {
       "key": "csp_xpath_qiyou",
       "name": "奇优电影(XP)",
@@ -202,7 +202,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/qiyou.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/qiyou.json"
     },
     {
       "key": "csp_xpath_cokemv",
@@ -212,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/cokemv.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/cokemv.json"
     },
     {
       "key": "六度",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/6dtv.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/6dtv.json"
     },
  {
       "key": "csp_xpath_chen",
@@ -232,9 +232,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/chenluo.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/chenluo.json"
     },
-{"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/huamao.json"},{"key":"csp_xpath_hhys","name":"火火影视TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/huohuo.json"},
+{"key":"csp_xpath_hmtv","name":"花猫TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/huamao.json"},{"key":"csp_xpath_hhys","name":"火火影视TV(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/huohuo.json"},
   {
       "key": "csp_xpath_libv",
       "name": "libvio(XP)",
@@ -243,9 +243,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/libvio.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/libvio.json"
     },
-{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/影视工厂.json"},
+{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/影视工厂.json"},
 {
       "key": "csp_xpath_saohuo",
       "name": "骚火(XPath)",
@@ -254,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/%E9%AA%9A%E7%81%AB.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/%E9%AA%9A%E7%81%AB.json"
     },
     {
       "key": "csp_xpath_lezhutv",
@@ -264,11 +264,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/%E4%B9%90%E7%8C%AAtv.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/%E4%B9%90%E7%8C%AAtv.json"
     },
-{"key":"csp_biubiu_爱看影视","name":"爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/爱看影视.json"},
-{"key":"csp_biubiu_Nike影视网","name":"Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/Nike影视网.json"},
-{"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/双十电影.json"},
+{"key":"csp_biubiu_爱看影视","name":"爱看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/爱看影视.json"},
+{"key":"csp_biubiu_Nike影视网","name":"Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/Nike影视网.json"},
+{"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/双十电影.json"},
 {
       "key": "csp_xpath_huya",
       "name": "虎牙直播(XP)",
@@ -277,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/huya.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/huya.json"
     },
 {
       "key": "csp_xpath_kuqi",
@@ -287,7 +287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/kuqimv.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/kuqimv.json"
     },    
  {
       "key": "csp_xpath_vipdy",
@@ -297,9 +297,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/vip1280.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/vip1280.json"
     },
-{"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/天空资源.json"},
+{"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/天空资源.json"},
 {
       "key": "csp_xpath_zjdr",
       "name": "追剧达人(XP)",
@@ -308,9 +308,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/vipmv.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/vipmv.json"
     },
-{"key":"csp_xpath_dxdx","name":"滴嘻滴嘻(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/dixidixi.json"},
+{"key":"csp_xpath_dxdx","name":"滴嘻滴嘻(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/dixidixi.json"},
  {
       "key": "csp_appysv2_段友影视",
       "name": "段友影视(优)",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/ikan.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/ikan.json"
     },
     {
       "key": "csp_xpath_miao",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/miaomiao.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/miaomiao.json"
     },
     {
       "key": "csp_xpath_dym8",
@@ -379,7 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/dianyingmi8.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/dianyingmi8.json"
     },
   {
       "key": "csp_xpath_xqm",
@@ -389,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/xiaoqiang.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/xiaoqiang.json"
     },
     {
       "key": "csp_xpath_jubb",
@@ -399,7 +399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/jubaibai.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/jubaibai.json"
     },
     {
       "key": "csp_xpath_zhangz",
@@ -409,7 +409,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
     },
 {
       "key": "csp_xpath_wug",
@@ -419,7 +419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E4%B9%8C%E9%BE%9F%E5%BD%B1%E9%99%A2.json"
     },
  {
       "key": "csp_xpath_348",
@@ -429,7 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/348z.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/348z.json"
     },
     {
       "key": "csp_xpath_zj",
@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E8%BF%BD%E5%89%A7%E7%BD%91.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E8%BF%BD%E5%89%A7%E7%BD%91.json"
     },
   {
       "key": "csp_xpath_jpys",
@@ -449,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/jpys.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/jpys.json"
     },
 {
       "key": "csp_xpath_pianba",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E7%89%87%E5%90%A7.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E7%89%87%E5%90%A7.json"
     },
     {
       "key": "csp_appysv2_天空影视",
@@ -540,7 +540,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key":"csp_xpath_wnys","name":"万能影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/wnvod.json"},
+{"key":"csp_xpath_wnys","name":"万能影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/wnvod.json"},
   {
       "key": "csp_xpath_jpjl",
       "name": "极品极链(XP)",
@@ -549,7 +549,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E6%9E%81%E5%93%81%E6%9E%81%E9%93%BE.json"
     },
    {
       "key": "csp_xpath_lranc",
@@ -559,7 +559,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/lranc.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/lranc.json"
     },
 {
       "key": "csp_xpath_pianku",
@@ -569,7 +569,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/%E7%89%87%E5%BA%93.json"
+      "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/%E7%89%87%E5%BA%93.json"
     },
     {
       "key": "ok影视",
