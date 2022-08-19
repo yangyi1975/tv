@@ -102,7 +102,7 @@
 {  "key":"csp_xpath_qiumi","name":"足球(Xb)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/biubiu/zuqiu.json"
 },
-{"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/xpath/yjxx.json"},
+{"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
 {"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
 {"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
 {"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
