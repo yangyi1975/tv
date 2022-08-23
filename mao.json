@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/quanji.jar;md5;ACC9342E0488B454637854295249DFB1",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/ddd.jar;md5;B62550B71FEFF1F0FFDC2FBA843A244A",
 "sites":[
 {
       "key": "csp_77",
@@ -27,8 +27,8 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },
+      "filterable": 1
+      },
 {"key":"Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ksj","name":"看视界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_hbys","name": "简影","api": "csp_JianYing","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
@@ -47,7 +47,6 @@
 "filterable":1,"ext":"721eac98c4bd5a53a239c5caf53a574d8af617de"},
 {"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,
 "quickSearch":1,"filterable":1},
-{"key": "Cokemv","name": "Cokemv","type": 4,"api": "https://agit.ai/raoyang100/mi/raw/branch/master/cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_biubiu_有声小说","name":"有声小说(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/xinbb.jar;md5;A231A9E9A157C13A231EEFE446CAF7FE","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/ysxs.json"},
@@ -63,13 +62,23 @@
 {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,
 "quickSearch":1,"filterable":1},
 {
+      "key": "csp_剧荒",
+      "name": "剧荒",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
       "key": "csp_Auete",
       "name": "奥特(SP)",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/quanji.jar;md5;ACC9342E0488B454637854295249DFB1"
     },
 {  "key": "csp_mjxq",
       "name": "美剧星球(SP)",
@@ -89,6 +98,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
+{
+            "key": "csp_appysv2_amhys",
+            "name": "爱麻花影视〔V2〕",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+        },
 {  "key":"csp_xpath_qiumi","name":"足球(Xb)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zuqiu.json"
 },
@@ -198,6 +217,15 @@
                 "其他剧"
             ]
         },
+{
+            "key": "T4",
+            "name": "(T4)",
+            "type": 4,
+            "api": "https://t4.catvod.eu.org/catvod/gaze",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {"key": "在线直播","name": "在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {  "key": "csp_蝶众","name": "蝶众影院(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, 
    "filterable": 0,"ext": "https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/diezhong.json"
@@ -240,6 +268,16 @@
             "filterable":1,
             "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/yso.jar;md5;C21E26F56D8A11A169B11DA5C875DF93",
             "ext":"638960f85d5541218b9b63fb2f441e11"
+        },
+{
+            "key": "Gitcafe",
+            "name": "小纸条(爬虫)",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "3a49cf29cf20410997247c6eb4509be9"
         },
 {"key": "csp_BBB" ,"name":"bilibili","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.qiaoji8.com/jar/bili.json"},
 {"key": "csp_Blixs" ,"name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"filterable": 1,"quickSearch": 1,"filterable": 1},
