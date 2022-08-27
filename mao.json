@@ -77,9 +77,8 @@
       "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/quanji.jar;md5;ACC9342E0488B454637854295249DFB1"
-    },
+      "filterable": 1
+     },
 {  "key": "csp_mjxq",
       "name": "美剧星球(SP)",
       "type": 3,
@@ -108,13 +107,13 @@
             "filterable": 1,
             "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
         },
+{"key":"多多采集","name":"多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["国产剧","综艺","动画片","日韩剧","喜剧片","爱情片","科幻片","恐怖片"]},
 {  "key":"csp_xpath_qiumi","name":"足球(Xb)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,  
    "filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/zuqiu.json"
 },
-{"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
-{"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
-{"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
-{"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/guan.jar;md5;2AD312B16996ECC0224E122F5EC9BA29"},
+{"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
+{"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key":"youku",
             "name":"优酷",
@@ -271,6 +270,9 @@
             "filterable": 1,
             "ext": "3a49cf29cf20410997247c6eb4509be9"
         },
+{"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
 {"key": "csp_BBB" ,"name":"bilibili","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,
 "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/xpath/bili.json"},
