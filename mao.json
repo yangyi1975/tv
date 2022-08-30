@@ -1,15 +1,6 @@
 {
 "spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
 "sites":[
-{
-      "key": "csp_77",
-      "name": "77(SP)",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
    {
       "key": "csp_kuaikan",
       "name": "快看(SP)",
