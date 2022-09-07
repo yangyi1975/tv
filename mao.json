@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/828.jar;md5;1C1482FF646CC40E1F924EBE320822BC",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/906.jar;md5;407F5087DF6860F97AF981E56848ADB6",
 "sites":[
    {
       "key": "csp_kuaikan",
@@ -48,12 +48,31 @@
       "filterable": 1
       },
 {"key":"ksj","name":"看视界","type":3,"api":"csp_KanSJ","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_hbys","name": "简影","api": "csp_JianYing","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},
- {"key":"3EDY","name":"3E电影","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key": "csp_hbys",
+            "name": "简影(SP)",
+            "type": 3,
+            "api": "csp_JianYing",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMTg1MywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0yNFQxMDo1ODoyMS4wMTIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTI0VDEwOjU4OjIxLjAxMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEzMDA4MjY1NTlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOWVkNjllZDItMTZiMC00Zjc4LTkxMzgtNTA5NjUzY2FlZjFmIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5OTcwNzEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9._FdSOTWMe0AVLaqUJ2598I0nB_uFnrvbmLZfQOSK-LU"
+        },
+{"key":"3EDY","name":"3E电影","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"spider_IKan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,
 "filterable":1,"ext":"721eac98c4bd5a53a239c5caf53a574d8af617de"},
 {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+{
+            "key": "csp_dd5555",
+            "name": "️555影视(SP)",
+            "api": "csp_Dy555",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1
+        },
+{"key": "小城","name": "小城影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://bc.yybox.xyz/api.php/v1.vod"},
 {"key":"csp_biubiu_有声小说","name":"有声小说(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
 "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/xinbb.jar;md5;A231A9E9A157C13A231EEFE446CAF7FE","ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/ysxs.json"},
 {"key": "Smdyy_spider",
@@ -711,6 +730,41 @@
                 ]
             }
         },
+{
+      "name": "绿叶",
+      "type": 1,
+      "url": "https://hc.izny.cn/json.php?url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "iqiyi",
+          "奇艺",
+          "爱奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "xigua",
+          "西瓜",
+          "sohu",
+          "搜狐",
+          "cntv",
+          "cctv",
+          "央视",
+          "1905",
+          "m1905"
+        ]
+      }
+    },
 {
 "name":"极速",
 "type":1,
